@@ -1,0 +1,4 @@
+Flask
+pandas
+Pillow
+requests
